@@ -29,17 +29,15 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:STM32F103xx
 LIBS:lm1117
 LIBS:74HCT08
 LIBS:24LC64
 LIBS:25AAXXX
-LIBS:W5200
 LIBS:NUF2042
 LIBS:crystal_chip
-LIBS:STM32F303xx
 LIBS:W5500
 LIBS:usb_mini
+LIBS:STM32F303Cx
 LIBS:Chimaera_DSP-F3_Unit-cache
 EELAYER 27 0
 EELAYER END
@@ -47,7 +45,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 2 2
 Title "WIZnet W5500 MagJack"
-Date "24 nov 2013"
+Date "29 nov 2013"
 Rev "1"
 Comp "by Open Music Kontrollers (www.open-music-kontrollers.ch)"
 Comment1 "Licensed under CERN OHL v.1.2"
