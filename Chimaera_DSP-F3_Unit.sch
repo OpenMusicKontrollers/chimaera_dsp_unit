@@ -45,7 +45,7 @@ $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 2
 Title "Chimaera DSP Unit"
-Date "5 dec 2013"
+Date "2 jan 2014"
 Rev "4"
 Comp "by Open Music Kontrollers (www.open-music-kontrollers.ch)"
 Comment1 "Licensed under CERN OHL v.1.2"
@@ -1457,6 +1457,7 @@ F 0 "U4" H 13450 5400 50  0000 C CNN
 F 1 "STM32F303CX" H 13450 5600 50  0000 C CNN
 F 2 "MODULE" H 13450 5500 50  0001 C CNN
 F 3 "DOCUMENTATION" H 13450 5500 50  0001 C CNN
+F 4 "497-13318-ND" H 13450 5500 60  0001 C CNN "Digi-Key"
 	1    13450 5500
 	1    0    0    -1  
 $EndComp
