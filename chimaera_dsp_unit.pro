@@ -1,14 +1,16 @@
-update=Son 02 Mär 2014 11:42:01 CET
+update=Son 02 Mär 2014 17:40:34 CET
 version=1
-last_client=kicad
+last_client=pcbnew
 [cvpcb]
 version=1
 NetIExt=net
 [cvpcb/libraries]
 EquName1=devcms
+[general]
+version=1
 [eeschema]
 version=1
-LibDir=../libs
+LibDir=../kicad_libs
 NetFmtName=PcbnewAdvanced
 RptD_X=0
 RptD_Y=100
@@ -56,7 +58,7 @@ LibName38=usb_mini
 LibName39=STM32F303Cx
 [pcbnew]
 version=1
-LastNetListRead=Chimaera_DSP-F3_Unit.net
+LastNetListRead=chimaera_dsp_unit.net
 UseCmpFile=1
 PadDrill="    0.900000"
 PadDrillOvalY="    0.900000"
@@ -74,7 +76,7 @@ DrawSegmentWidth="    0.100000"
 BoardOutlineThickness="    0.100000"
 ModuleOutlineThickness="    0.100000"
 [pcbnew/libraries]
-LibDir=../mods
+LibDir=../kicad_mods
 LibName1=sockets
 LibName2=connect
 LibName3=discret
@@ -105,5 +107,3 @@ LibName27=SIL-10x2
 LibName28=SO16_narrow
 LibName29=SM1210_Cap
 LibName30=CE_Logo
-[general]
-version=1

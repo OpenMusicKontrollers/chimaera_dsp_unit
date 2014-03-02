@@ -100,7 +100,7 @@
       (mirror false)
       (drillshape 2)
       (scaleselection 1)
-      (outputdirectory ../gerber/DSP-F3_Unit/rev4/))
+      (outputdirectory ./release/))
   )
 
   (net 0 "")

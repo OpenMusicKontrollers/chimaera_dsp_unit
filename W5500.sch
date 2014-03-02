@@ -38,7 +38,7 @@ LIBS:crystal_chip
 LIBS:W5500
 LIBS:usb_mini
 LIBS:STM32F303Cx
-LIBS:Chimaera_DSP-F3_Unit-cache
+LIBS:chimaera_dsp_unit-cache
 EELAYER 27 0
 EELAYER END
 $Descr A4 11693 8268
