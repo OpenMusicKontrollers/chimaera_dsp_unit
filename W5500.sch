@@ -45,7 +45,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 2 2
 Title "WIZnet W5500 MagJack"
-Date "20 apr 2014"
+Date "5 may 2014"
 Rev "1"
 Comp "by Open Music Kontrollers (www.open-music-kontrollers.ch)"
 Comment1 "Licensed under CERN OHL v.1.2"

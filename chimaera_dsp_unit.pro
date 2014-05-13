@@ -1,4 +1,4 @@
-update=Son 02 Mär 2014 17:40:34 CET
+update=Mon 05 Mai 2014 19:19:21 CEST
 version=1
 last_client=pcbnew
 [cvpcb]
@@ -62,8 +62,8 @@ LastNetListRead=chimaera_dsp_unit.net
 UseCmpFile=1
 PadDrill="    0.900000"
 PadDrillOvalY="    0.900000"
-PadSizeH="    1.500000"
-PadSizeV="    1.500000"
+PadSizeH="    1.700000"
+PadSizeV="    1.700000"
 PcbTextSizeV="    0.800000"
 PcbTextSizeH="    0.800000"
 PcbTextThickness="    0.200000"
@@ -107,3 +107,4 @@ LibName27=SIL-10x2
 LibName28=SO16_narrow
 LibName29=SM1210_Cap
 LibName30=CE_Logo
+LibName31=omk_logo

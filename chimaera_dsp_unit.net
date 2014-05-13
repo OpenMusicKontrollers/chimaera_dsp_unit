@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/hp/omk/chimaera_dsp_unit/chimaera_dsp_unit.sch)
-    (date "Son 20 Apr 2014 22:11:53 CEST")
+    (date "Mon 05 Mai 2014 18:45:54 CEST")
     (tool "eeschema (2013-may-18)-stable"))
   (components
     (comp (ref C2)
@@ -261,7 +261,7 @@
     (comp (ref U6)
       (value 74HC163)
       (fields
-        (field (name Digi-Key) 296-33134-5-ND))
+        (field (name Digi-Key) 296-33034-5-ND))
       (libsource (lib 74xx) (part 74LS163))
       (sheetpath (names /) (tstamps /))
       (tstamp 526D187F))
@@ -1023,10 +1023,10 @@
       (uri ../kicad_libs/crystal_chip.lib))
     (library (logical W5500)
       (uri ../kicad_libs/W5500.lib))
-    (library (logical usb_mini)
-      (uri ../kicad_libs/usb_mini.lib))
     (library (logical STM32F303Cx)
-      (uri ../kicad_libs/STM32F303Cx.lib)))
+      (uri ../kicad_libs/STM32F303Cx.lib))
+    (library (logical usb_mini)
+      (uri ../kicad_libs/usb_mini.lib)))
   (nets
     (net (code 1) (name +9V)
       (node (ref P2) (pin 6))
